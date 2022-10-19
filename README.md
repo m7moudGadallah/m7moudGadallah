@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Gadallah</h1>
 
-##About
+## About
 - 🏫 Computer Engineering Student
 - 💻 I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`
 - 🌱 I’m currently learning Computer Science and DataScience
