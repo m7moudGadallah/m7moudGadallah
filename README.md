@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Gadallah</h1>
+<h1 align="center">Hi <img src="https://github.com/m7moudGadallah/m7moudGadallah/blob/main/pic/giphy.webp?raw=true" width="35">, I'm Mahmoud Gadallah</h1>
 
 <picture> <img align="right" src="https://github.com/m7moudGadallah/m7moudGadallah/blob/main/pic/programmer.gif?raw=true" width = 250px></picture>
 
