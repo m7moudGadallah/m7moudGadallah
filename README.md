@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Gadallah</h1>
 
- <img src = "https://github.com/m7moudGadallah/m7moudGadallah/blob/main/pic/about_me.gif" width="100" heigth = "100") ## About
+<picture> <img align="right" src="https://github.com/m7moudGadallah/m7moudGadallah/blob/main/pic/programmer.gif?raw=true" width = 250px></picture>
+
+## <picture><img src = "https://github.com/m7moudGadallah/m7moudGadallah/blob/main/pic/about_me.gif?raw=true" width = 50px></picture> About me
 - 🏫 Computer Engineering Student
 - 💻 I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`
 - 🌱 I’m currently learning Computer Science and DataScience
