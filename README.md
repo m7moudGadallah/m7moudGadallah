@@ -8,7 +8,7 @@
 - 💻 I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`
 - 🌱 I’m currently learning Computer Science and DataScience
 - 🤓 Always Learning new things
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/m7moudgadallah/)
+- 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/m7moudgadallah/)**
 
 
 
