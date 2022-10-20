@@ -4,7 +4,7 @@
 
 ## <picture><img src = "https://github.com/m7moudGadallah/m7moudGadallah/blob/main/pic/about_me.gif?raw=true" width = 50px></picture> About me
 - 🏫 Computer Engineering Student at [Faculty of Engineering Mansoura University](http://engfac.mans.edu.eg/en)
-- Participate in ECPC 2022  => [Certificate](pic/2023-ECPCQDAYEIGHT2022-Mahmoud%20Gadallah-PLACE.png)
+- <picture><img src = "pic/icpc.png" width = 25px></picture> Participate in ECPC 2022  => [Certificate](pic/2023-ECPCQDAYEIGHT2022-Mahmoud%20Gadallah-PLACE.png)
 - 💻 I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`
 - 🌱 I’m currently learning Computer Science and DataScience
 - 🤓 Always Learning new things
