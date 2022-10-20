@@ -7,7 +7,7 @@
 - 💻 I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`
 - 🌱 I’m currently learning Computer Science and DataScience
 - 🤓 Always Learning new things
-<picture><img align = "right" src = "https://github.com/m7moudGadallah/m7moudGadallah/blob/main/pic/2023-ECPCQDAYEIGHT2022-Mahmoud%20Gadallah-PLACE.png?raw=true" width = 400px></picture>
+<picture><img align = "right" src = "https://github.com/m7moudGadallah/m7moudGadallah/blob/main/pic/2023-ECPCQDAYEIGHT2022-Mahmoud%20Gadallah-PLACE.png?raw=true" width = 250px></picture>
 - Participate in ECPC 2022  
 - 📫 How to reach me **mahmoudgadallah876@gmail.com**
 
