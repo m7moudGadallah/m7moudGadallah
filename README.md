@@ -1,10 +1,10 @@
 <h1 align="center">Hi <img src="https://github.com/m7moudGadallah/m7moudGadallah/blob/main/pic/giphy.webp?raw=true" width="35">, I'm Mahmoud Gadallah</h1>
 
-<picture> <img align="right" src="https://github.com/m7moudGadallah/m7moudGadallah/blob/main/pic/programmer.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="pic/programmer2.gif" width = 250px></picture>
 
 ## <picture><img src = "https://github.com/m7moudGadallah/m7moudGadallah/blob/main/pic/about_me.gif?raw=true" width = 50px></picture> About me
-- 🏫 Computer Engineering Student at [Faculty of Engineering Mansoura University](http://engfac.mans.edu.eg/en)
-- <picture><img src = "pic/icpc.png" width = 25px></picture> Participate in ECPC 2022  => [Certificate](pic/2023-ECPCQDAYEIGHT2022-Mahmoud%20Gadallah-PLACE.png)
+- 🏫 Computer Engineering Student at [**Faculty of Engineering Mansoura University**](http://engfac.mans.edu.eg/en)
+- <picture><img src = "pic/icpc.png" width = 25px></picture> Participate in ECPC 2022  => [**Certificate**](pic/2023-ECPCQDAYEIGHT2022-Mahmoud%20Gadallah-PLACE.png)
 - 💻 I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`
 - 🌱 I’m currently learning Computer Science and DataScience
 - 🤓 Always Learning new things
