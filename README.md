@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Computer Science and DataScience
 - 🤓 Always Learning new things
 - Participate in ECPC 2022  
-<picture><img src = "https://github.com/m7moudGadallah/m7moudGadallah/blob/main/pic/2023-ECPCQDAYEIGHT2022-Mahmoud%20Gadallah-PLACE.png?raw=true" width = 210px height = 200></picture>
+<picture><img src = "https://github.com/m7moudGadallah/m7moudGadallah/blob/main/pic/2023-ECPCQDAYEIGHT2022-Mahmoud%20Gadallah-PLACE.png?raw=true" width = 400px></picture>
 - 📫 How to reach me **mahmoudgadallah876@gmail.com**
 
 
