@@ -7,7 +7,7 @@
 - <picture><img src = "pic/icpc.png" width = 25px></picture> Participate in ECPC 2022  => [**Certificate**](pic/2023-ECPCQDAYEIGHT2022-Mahmoud%20Gadallah-PLACE.png)
 - <picture><img src = "pic/xtreme-logo.gif" width = 25px></picture> Participate in IEEEXtreme 16.0 || Rank(18 on `Egypt` & 640 `global`)  => [**Rank**](pic/IEEE_Rank.jpg)
 - 💻 I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`
-- 🌱 I’m currently learning Computer Science and DataScience
+- 🌱 I’m currently learning Computer Science
 - 🤓 Always Learning new things
 - 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/m7moudgadallah/)**
 
