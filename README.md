@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning Computer Science
 - 🤓 Always Learning new things
 - 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/m7moudgadallah/)**
+- [My Resume](https://drive.google.com/file/d/1uwg03JfkjRj933TbJI6Mzc4cX5C7RkIc/view?usp=sharing)
 
 
 
