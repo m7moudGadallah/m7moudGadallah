@@ -53,15 +53,15 @@
 
 <p align="center">
     &emsp;
-    <img src="./pic/icons/prog_lang/C.svg" width=7% title="C">
+    <img src="./pic/icons/prog_lang/C.svg" width=5% title="C">
     &emsp;
-    <img src="./pic/icons/prog_lang/CPP.svg" width=7% title="C++">
+    <img src="./pic/icons/prog_lang/CPP.svg" width=5% title="C++">
     &emsp;
-    <img src="./pic/icons/prog_lang/CS.svg" width=7% title="C#">
+    <img src="./pic/icons/prog_lang/CS.svg" width=5% title="C#">
     &emsp;
-    <img src="./pic/icons/prog_lang/Java-Light.svg" width=7% title="Java">
+    <img src="./pic/icons/prog_lang/Java-Light.svg" width=5% title="Java">
         &emsp;
-    <img src="./pic/icons/prog_lang/Python-Light.svg" width=7% title="Python">
+    <img src="./pic/icons/prog_lang/Python-Light.svg" width=5% title="Python">
 </p>
 
 <!--Software & Tools-->
@@ -69,21 +69,21 @@
  
 <p align="center">
     &emsp;
-    <img src="./pic/icons/prog_lang/HTML.svg" width=7% title="HTML">
+    <img src="./pic/icons/prog_lang/HTML.svg" width=5% title="HTML">
     &emsp;
-    <img src="./pic/icons/prog_lang/CSS.svg" width=7% title="CSS">
+    <img src="./pic/icons/prog_lang/CSS.svg" width=5% title="CSS">
     &emsp;
-    <img src="./pic/icons/prog_lang/Markdown-Light.svg" width=7% title="Markdown">
+    <img src="./pic/icons/prog_lang/Markdown-Light.svg" width=5% title="Markdown">
     &emsp;
-        <img src="./pic/icons/prog_lang/Git.svg" width=7% title="Git">
+        <img src="./pic/icons/prog_lang/Git.svg" width=5% title="Git">
     &emsp;
-        <img src="./pic/icons/prog_lang/Github-Light.svg" width=7% title="Github">
+        <img src="./pic/icons/prog_lang/Github-Light.svg" width=5% title="Github">
     &emsp;
-    <img src="./pic/icons/tools/VIM-Light.svg" width=7% title="Vim">
+    <img src="./pic/icons/tools/VIM-Light.svg" width=5% title="Vim">
     &emsp;
-    <img src="./pic/icons/tools/LaTeX-Light.svg" width=7% title="LaTex">
+    <img src="./pic/icons/tools/LaTeX-Light.svg" width=5% title="LaTex">
     &emsp;
-        <img src="./pic/icons/prog_lang/Matlab-Light.svg" width=7% title="Matlab">
+        <img src="./pic/icons/prog_lang/Matlab-Light.svg" width=5% title="Matlab">
     &emsp;
 </p>
 
@@ -92,13 +92,13 @@
  
 <p align="center">
     &emsp;
-    <img src="./pic/icons/tools/VSCode-Light.svg" width=7% title="VS Code">
+    <img src="./pic/icons/tools/VSCode-Light.svg" width=5% title="VS Code">
     &emsp;
-    <img src="./pic/icons/tools/VisualStudio-Light.svg" width=7% title="Visual Studio">
+    <img src="./pic/icons/tools/VisualStudio-Light.svg" width=5% title="Visual Studio">
     &emsp;
-    <img src="./pic/icons/tools/CLion_icon.svg" width=7% title="Clion">
+    <img src="./pic/icons/tools/CLion_icon.svg" width=5% title="Clion">
     &emsp;
-    <img src="./pic/icons/tools/IntelliJ_IDEA_icon.svg" width=7% title="IntelliJ IDEA">
+    <img src="./pic/icons/tools/IntelliJ_IDEA_icon.svg" width=5% title="IntelliJ IDEA">
     &emsp;  
 </p>
 
@@ -107,13 +107,13 @@
 
 <p align="center">
     &emsp;
-    <img src="./pic/icons/os/Linux-Light.svg" width=7% title="Linux">
+    <img src="./pic/icons/os/Linux-Light.svg" width=5% title="Linux">
     &emsp;
-    <img src="./pic/icons/os/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width=7% title="Ubuntu">
+    <img src="./pic/icons/os/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width=5% title="Ubuntu">
     &emsp;
-    <img src="./pic/icons/os/Pop_OS-Logo-nobg.svg.png" width=7% title="Pop_OS!">
+    <img src="./pic/icons/os/Pop_OS-Logo-nobg.svg.png" width=5% title="Pop_OS!">
     &emsp;
-    <img src="./pic/icons/os/microsoft-windows-22.svg" width=7% title="Windows">
+    <img src="./pic/icons/os/microsoft-windows-22.svg" width=5% title="Windows">
     &emsp;
 </p>
 
