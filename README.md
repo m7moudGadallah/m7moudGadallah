@@ -23,9 +23,9 @@
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 <p align="center">
 	<a href="mailto:mahmoudgadallah876@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/m7moudGadallah"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/m7moudgadallah/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/m7moudGadallah"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://github.com/m7moudGadallah"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" target="_blank"/></a>
+	<a href="https://www.linkedin.com/in/m7moudgadallah/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/m7moudGadallah" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
 <!--My competitive Programing Profiles-->
@@ -33,15 +33,15 @@
 
 <div align="center" width=100%>
     &emsp;
-  <a href="https://codeforces.com/profile/Gadallah" target="blank" title="codeforces profile"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
+  <a href="https://codeforces.com/profile/Gadallah" target="_blank" title="codeforces profile"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
 	  &emsp; 
-	<a href="https://leetcode.com/m7moudGadallah/" target="blank" title="leetcode profile"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=%6/></a>
+	<a href="https://leetcode.com/m7moudGadallah/" target="_blank" title="leetcode profile"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=%6/></a>
 	  &emsp; 
-	<a href="https://www.codechef.com/users/gadallah" target="blank" title="codechef profile"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef" width=6%/></a>
+	<a href="https://www.codechef.com/users/gadallah" target="_blank" title="codechef profile"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef" width=6%/></a>
 	  &emsp; 
-    <a href="https://www.hackerrank.com/mahmoudgadallah1" target="blank" title="hackerrank profile"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahmoudgadallah1" width="6%" /></a>
+    <a href="https://www.hackerrank.com/mahmoudgadallah1" target="_blank" title="hackerrank profile"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahmoudgadallah1" width="6%" /></a>
       &emsp;
-	<a href="https://icpc.global/ICPCID/0WKWHVB3LK5C" target="blank" title="ICPC"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width=6% /></a>     
+	<a href="https://icpc.global/ICPCID/0WKWHVB3LK5C" target="_blank" title="ICPC"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width=6% /></a>     
 	  &emsp; 
 </div>
 
