@@ -102,8 +102,9 @@
     &emsp;  
 </p>
 
- ### <img src = "./pic/icons/OS.gif?raw=true" width=5%>  Operating Systems
- 
+<!--OS-->
+ ### <img src = "./pic/icons/os/OS.gif?raw=true" width=5%>  Operating Systems
+
 <p align="center">
     &emsp;
     <img src="./pic/icons/os/Linux-Light.svg" width=7% title="Linux">
