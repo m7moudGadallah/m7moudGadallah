@@ -62,6 +62,8 @@
     <img src="./pic/icons/prog_lang/Java-Light.svg" width=5% title="Java">
         &emsp;
     <img src="./pic/icons/prog_lang/Python-Light.svg" width=5% title="Python">
+        &emsp;
+    <img src="./pic/icons/prog_lang/JavaScript.svg" width=5% title="JavaScript">
 </p>
 
 <!--Software & Tools-->
@@ -83,8 +85,9 @@
     &emsp;
     <img src="./pic/icons/tools/LaTeX-Light.svg" width=5% title="LaTex">
     &emsp;
-        <img src="./pic/icons/prog_lang/Matlab-Light.svg" width=5% title="Matlab">
+    <img src="./pic/icons/prog_lang/Matlab-Light.svg" width=5% title="Matlab">
     &emsp;
+    <img src="./pic/icons/tools/Jupyter_logo.svg.png" width=5% title="Jupyter Notebook">
 </p>
 
 <!--IDEs-->
