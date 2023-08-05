@@ -105,7 +105,7 @@
 
 <!--IDEs-->
 
-### <img src = "./pic/icons/tools/IDEs.gif?raw=true" width=5%> IDEs
+### <img src = "./pic/icons/tools/IDEs.gif?raw=true" width=5%> IDEs and Code Editors
 
 <p align="center">
     &emsp;
