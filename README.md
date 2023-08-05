@@ -3,14 +3,16 @@
 <picture> <img align="right" src="pic/programmer2.gif?raw=true" width = 250px></picture>
 
 <!--About me-->
+
 ## <picture><img src = "https://github.com/m7moudGadallah/m7moudGadallah/blob/main/pic/about_me.gif?raw=true" width = 50px></picture> About me
+
 <br>
 <div>
 
 - 🏫 Computer Engineering Student at [**Faculty of Engineering Mansoura University**](http://engfac.mans.edu.eg/en)
 - Currently Enrolled on Meta Backend Specialization
-- <picture><img src = "pic/icpc.png" width = 25px></picture> Participate in ECPC 2022  => [**Certificate**](pic/2023-ECPCQDAYEIGHT2022-Mahmoud%20Gadallah-PLACE.png)
-- <picture><img src = "pic/xtreme-logo.gif" width = 25px></picture> Participate in IEEEXtreme 16.0 || Rank(18 on `Egypt` & 640 `global`)  => [**Rank**](pic/IEEE_Rank.jpg)
+- <picture><img src = "pic/icpc.png" width = 25px></picture> Participate in ECPC 2022 => [**Certificate**](pic/2023-ECPCQDAYEIGHT2022-Mahmoud%20Gadallah-PLACE.png)
+- <picture><img src = "pic/xtreme-logo.gif" width = 25px></picture> Participate in IEEEXtreme 16.0 || Rank(18 on `Egypt` & 640 `global`) => [**Rank**](pic/IEEE_Rank.jpg)
 - 💻 I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`
 - 🌱 I’m currently learning Computer Science & Web Development
 - 🤓 Always Learning new things
@@ -20,7 +22,9 @@
 </div>
 
 <!--contact with me-->
+
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
+
 <p align="center">
 	<a href="mailto:mahmoudgadallah876@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/m7moudGadallah"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" target="_blank"/></a>
@@ -29,6 +33,7 @@
 </p>
 
 <!--My competitive Programing Profiles-->
+
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
 
 <div align="center" width=100%>
@@ -46,9 +51,11 @@
 </div>
 
 <!--My Skills-->
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
 <!--Programming-->
+
 ### <img src = "./pic/icons/prog_lang/programming.gif" width=7%> Programming languages
 
 <p align="center">
@@ -67,13 +74,21 @@
 </p>
 
 <!--Software & Tools-->
- ### <img src = "./pic/icons/tools/Software_Tools.gif?=row=true" width=5%>  Software & Tools
- 
+
+### <img src = "./pic/icons/tools/Software_Tools.gif?=row=true" width=5%> Software & Tools
+
 <p align="center">
-    &emsp;
     <img src="./pic/icons/prog_lang/HTML.svg" width=5% title="HTML">
     &emsp;
     <img src="./pic/icons/prog_lang/CSS.svg" width=5% title="CSS">
+    &emsp;
+    <img src="./pic/icons/tools/NodeJS-Dark.svg" width=5% title="Nodejs">
+    &emsp;
+    <img src="./pic/icons/tools/ExpressJS-Dark.svg" width=5% title="Expressjs">
+    &emsp;
+    <img src="./pic/icons/tools/MongoDB.svg" width=5% title="MongoDB">
+    &emsp;
+    <img src="./pic/icons/tools/Jest.svg" width=5% title="Jest">
     &emsp;
     <img src="./pic/icons/prog_lang/Markdown-Light.svg" width=5% title="Markdown">
     &emsp;
@@ -83,16 +98,15 @@
     &emsp;
     <img src="./pic/icons/tools/VIM-Light.svg" width=5% title="Vim">
     &emsp;
-    <img src="./pic/icons/tools/LaTeX-Light.svg" width=5% title="LaTex">
-    &emsp;
     <img src="./pic/icons/prog_lang/Matlab-Light.svg" width=5% title="Matlab">
     &emsp;
     <img src="./pic/icons/tools/Jupyter_logo.svg.png" width=5% title="Jupyter Notebook">
 </p>
 
 <!--IDEs-->
- ### <img src = "./pic/icons/tools/IDEs.gif?raw=true" width=5%> IDEs
- 
+
+### <img src = "./pic/icons/tools/IDEs.gif?raw=true" width=5%> IDEs
+
 <p align="center">
     &emsp;
     <img src="./pic/icons/tools/VSCode-Light.svg" width=5% title="VS Code">
@@ -106,7 +120,8 @@
 </p>
 
 <!--OS-->
- ### <img src = "./pic/icons/os/OS.gif?raw=true" width=5%>  Operating Systems
+
+### <img src = "./pic/icons/os/OS.gif?raw=true" width=5%> Operating Systems
 
 <p align="center">
     &emsp;
@@ -120,15 +135,9 @@
     &emsp;
 </p>
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m7moudgadallah&label=Profile%20views&color=0e75b6&style=flat" alt="m7moudgadallah" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m7moudgadallah" alt="m7moudgadallah" /></a> </p>
-
-
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m7moudgadallah&show_icons=true&locale=en&layout=compact" alt="m7moudgadallah" /></p>
 
