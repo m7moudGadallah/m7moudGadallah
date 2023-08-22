@@ -87,8 +87,14 @@
     <img src="./pic/icons/tools/ExpressJS-Dark.svg" width=5% title="Expressjs">
     &emsp;
     <img src="./pic/icons/tools/MongoDB.svg" width=5% title="MongoDB">
+    &emsp;    
+    <img src="./pic/icons/tools/PostgreSQL-Dark.svg" width=5% title="postgresql">
+    &emsp;
+    <img src="./pic/icons/tools/ms-sql-server.svg" width=5% title="ms-sql-server">
     &emsp;
     <img src="./pic/icons/tools/Jest.svg" width=5% title="Jest">
+    &emsp;    
+    <img src="./pic/icons/tools/Postman.svg" width=5% title="Jest">
     &emsp;
     <img src="./pic/icons/prog_lang/Markdown-Light.svg" width=5% title="Markdown">
     &emsp;
