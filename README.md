@@ -10,7 +10,6 @@
 <div>
 
 - 🏫 Computer Engineering Student at [**Faculty of Engineering Mansoura University**](http://engfac.mans.edu.eg/en)
-- Currently Enrolled on Meta Backend Specialization
 - <picture><img src = "pic/icpc.png" width = 25px></picture> Participate in ECPC 2022 => [**Certificate**](pic/2023-ECPCQDAYEIGHT2022-Mahmoud%20Gadallah-PLACE.png)
 - <picture><img src = "pic/xtreme-logo.gif" width = 25px></picture> Participate in IEEEXtreme 16.0 || Rank(18 on `Egypt` & 640 `global`) => [**Rank**](pic/IEEE_Rank.jpg)
 - 💻 I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`
@@ -91,6 +90,8 @@
     <img src="./pic/icons/tools/PostgreSQL-Dark.svg" width=5% title="postgresql">
     &emsp;
     <img src="./pic/icons/tools/ms-sql-server.svg" width=5% title="ms-sql-server">
+    &emsp;
+    <img src="./pic/icons/tools/Prisma.svg" width=5% title="prisma">
     &emsp;
     <img src="./pic/icons/tools/Jest.svg" width=5% title="Jest">
     &emsp;    
