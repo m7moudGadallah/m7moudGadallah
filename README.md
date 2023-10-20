@@ -70,6 +70,9 @@
     <img src="./pic/icons/prog_lang/Python-Light.svg" width=5% title="Python">
         &emsp;
     <img src="./pic/icons/prog_lang/JavaScript.svg" width=5% title="JavaScript">
+        &emsp;
+    <img src="./pic/icons/prog_lang/TypeScript.svg" width=5% title="TypeScript">
+        &emsp;
 </p>
 
 <!--Software & Tools-->
