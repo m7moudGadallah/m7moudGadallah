@@ -98,7 +98,7 @@
     &emsp;
     <img src="./pic/icons/tools/Jest.svg" width=5% title="Jest">
     &emsp;    
-    <img src="./pic/icons/tools/Postman.svg" width=5% title="Jest">
+    <img src="./pic/icons/tools/Postman.svg" width=5% title="Postman">
     &emsp;
     <img src="./pic/icons/prog_lang/Markdown-Light.svg" width=5% title="Markdown">
     &emsp;
