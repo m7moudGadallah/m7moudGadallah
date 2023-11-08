@@ -31,7 +31,7 @@
 	<a href="https://www.facebook.com/m7moudGadallah" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
-<!--My competitive Programing Profiles-->
+<!--My competitive Programming Profiles-->
 
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
 
@@ -93,12 +93,16 @@
     <img src="./pic/icons/tools/PostgreSQL-Dark.svg" width=5% title="postgresql">
     &emsp;
     <img src="./pic/icons/tools/ms-sql-server.svg" width=5% title="ms-sql-server">
+    &emsp;   
+    <img src="./pic/icons/tools/SQLite.svg" width=5% title="SQLite">
     &emsp;
     <img src="./pic/icons/tools/Prisma.svg" width=5% title="prisma">
     &emsp;
     <img src="./pic/icons/tools/Jest.svg" width=5% title="Jest">
     &emsp;    
-    <img src="./pic/icons/tools/Postman.svg" width=5% title="Postman">
+    <img src="./pic/icons/tools/Postman.svg" width=5% title="Postman">    
+    &emsp;    
+    <img src="./pic/icons/tools/Firebase-Light.svg" width=5% title="Firebase">
     &emsp;
     <img src="./pic/icons/prog_lang/Markdown-Light.svg" width=5% title="Markdown">
     &emsp;
