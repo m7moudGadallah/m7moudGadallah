@@ -149,12 +149,12 @@
     &emsp;
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m7moudgadallah&label=Profile%20views&color=0e75b6&style=flat" alt="m7moudgadallah" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=m7moudgadallah&label=Profile%20views&color=0e75b6&style=flat" alt="m7moudgadallah"/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m7moudgadallah" alt="m7moudgadallah" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m7moudgadallah" alt="m7moudgadallah"/></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m7moudgadallah&show_icons=true&locale=en&layout=compact" alt="m7moudgadallah" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m7moudgadallah&show_icons=true&locale=en&layout=compact" alt="m7moudgadallah"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m7moudgadallah&show_icons=true&locale=en" alt="m7moudgadallah" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m7moudgadallah&show_icons=true&locale=en" alt="m7moudgadallah"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m7moudgadallah&" alt="m7moudgadallah"/></p>
