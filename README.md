@@ -104,6 +104,8 @@
     &emsp;    
     <img src="./pic/icons/tools/Firebase-Light.svg" width=5% title="Firebase">
     &emsp;
+    <img src="./pic/icons/tools/Docker.svg" width=5% title="Docker">
+    &emsp;
     <img src="./pic/icons/prog_lang/Markdown-Light.svg" width=5% title="Markdown">
     &emsp;
         <img src="./pic/icons/prog_lang/Git.svg" width=5% title="Git">
