@@ -22,7 +22,7 @@
 - 🌱 **Lifelong learner**, currently diving deep into **Computer Science** and **Web Development** to stay updated with the latest technologies and trends.
 - 📈 Strong entrepreneurial mindset, eager to explore innovative solutions and projects.
 - 📫 Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/m7moudgadallah/)**.
-- **[Download My Resume](https://drive.google.com/file/d/1DwwNnZWHLIfHJLe9hjpBC63ZfL7k-Jqy/view?usp=sharing)** for a comprehensive view of my background.
+- **[Download My Resume](https://drive.google.com/file/d/1n4nhkEJl7a4qtmEGerr4PJgRVLAR6xix/view?usp=sharing)** for a comprehensive view of my background.
 </div>
 
 <!--contact with me-->
