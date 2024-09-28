@@ -1,3 +1,9 @@
+<!-- markdownlint-disable MD009 -->
+<!-- markdownlint-disable MD010 -->
+<!-- markdownlint-disable MD032 -->
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD045 -->
+
 <h1 align="center">Hi <img src="https://github.com/m7moudGadallah/m7moudGadallah/blob/main/pic/giphy.webp?raw=true" width="35">, I'm Mahmoud Gadallah</h1>
 
 <picture> <img align="right" src="pic/programmer2.gif?raw=true" width = 250px></picture>
@@ -9,15 +15,14 @@
 <br>
 <div>
 
-- 🏫 Computer Engineering Student at [**Faculty of Engineering Mansoura University**](http://engfac.mans.edu.eg/en)
-- <picture><img src = "pic/icpc.png" width = 25px></picture> Participate in ECPC 2022 => [**Certificate**](pic/2023-ECPCQDAYEIGHT2022-Mahmoud%20Gadallah-PLACE.png)
-- <picture><img src = "pic/xtreme-logo.gif" width = 25px></picture> Participate in IEEEXtreme 16.0 || Rank(18 on `Egypt` & 640 `global`) => [**Rank**](pic/IEEE_Rank.jpg)
-- 💻 I am a competitive programmer at `Codeforces`, `Leetcode`, `Codechef`
-- 🌱 I’m currently learning Computer Science & Web Development
-- 🤓 Always Learning new things
-- 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/m7moudgadallah/)**
-- **[My Resume](https://drive.google.com/file/d/1DwwNnZWHLIfHJLe9hjpBC63ZfL7k-Jqy/view?usp=sharing)**
-
+- 🏫 **Graduate of Mansoura University's Faculty of Engineering** with a specialization in **Computer and Control Systems**.
+- <picture><img src="pic/icpc.png" width="25px"></picture> Participated in the **Egyptian Collegiate Programming Contest (ECPC) 2022** => [**View Certificate**](pic/2023-ECPCQDAYEIGHT2022-Mahmoud%20Gadallah-PLACE.png).
+- <picture><img src="pic/xtreme-logo.gif" width="25px"></picture> Ranked **18th in Egypt and 640th globally** in the **IEEE Xtreme 16.0** coding competition => [**View Rank**](pic/IEEE_Rank.jpg).
+- 💻 Passionate about **competitive programming** on platforms such as `Codeforces`, `Leetcode`, and `Codechef`, where I constantly challenge myself to enhance my problem-solving skills.
+- 🌱 **Lifelong learner**, currently diving deep into **Computer Science** and **Web Development** to stay updated with the latest technologies and trends.
+- 📈 Strong entrepreneurial mindset, eager to explore innovative solutions and projects.
+- 📫 Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/m7moudgadallah/)**.
+- **[Download My Resume](https://drive.google.com/file/d/1DwwNnZWHLIfHJLe9hjpBC63ZfL7k-Jqy/view?usp=sharing)** for a comprehensive view of my background.
 </div>
 
 <!--contact with me-->
@@ -86,7 +91,7 @@
     &emsp;
     <img src="./pic/icons/tools/NodeJS-Dark.svg" width=5% title="Nodejs">
     &emsp;
-    <img src="./pic/icons/tools/ExpressJS-Dark.svg" width=5% title="Expressjs">
+    <img src="./pic/icons/tools/ExpressJS-Dark.svg" width=5% title="ExpressJS">
     &emsp;
     <img src="./pic/icons/tools/MongoDB.svg" width=5% title="MongoDB">
     &emsp;    
@@ -95,6 +100,8 @@
     <img src="./pic/icons/tools/ms-sql-server.svg" width=5% title="ms-sql-server">
     &emsp;   
     <img src="./pic/icons/tools/SQLite.svg" width=5% title="SQLite">
+    &emsp;   
+    <img src="./pic/icons/tools/Redis.png" width=5% title="Redis">
     &emsp;
     <img src="./pic/icons/tools/Prisma.svg" width=5% title="prisma">
     &emsp;
