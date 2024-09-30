@@ -109,6 +109,8 @@
     &emsp;    
     <img src="./pic/icons/tools/Postman.svg" width=5% title="Postman">    
     &emsp;    
+    <img src="./pic/icons/tools/Swagger.png" width=5% title="Swagger">    
+    &emsp;  
     <img src="./pic/icons/tools/Firebase-Light.svg" width=5% title="Firebase">
     &emsp;
     <img src="./pic/icons/tools/Docker.svg" width=5% title="Docker">
