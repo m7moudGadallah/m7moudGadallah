@@ -90,6 +90,12 @@
     &emsp;
     <img src="./pic/icons/prog_lang/CSS.svg" width=5% title="CSS">
     &emsp;
+    <img src="./pic/icons/tools/Bootstrap.png" width=5% title="Bootstrap">
+    &emsp;
+    <img src="./pic/icons/tools/Angular.png" width=5% title="Angular">
+&emsp;
+    <img src="./pic/icons/tools/NET core.png" width=5% title="Dotnet Core">
+    &emsp;
     <img src="./pic/icons/tools/NodeJS-Dark.svg" width=5% title="Nodejs">
     &emsp;
     <img src="./pic/icons/tools/ExpressJS-Dark.svg" width=5% title="ExpressJS">
