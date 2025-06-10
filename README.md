@@ -151,6 +151,8 @@
     &emsp;
     <img src="./pic/icons/tools/IntelliJ_IDEA_icon.svg" width=5% title="IntelliJ IDEA">
     &emsp;  
+    <img src="./pic/icons/tools/WebStorm.svg" width=5% title="WebStorm IDEA">
+    &emsp;  
 </p>
 
 <!--OS-->
