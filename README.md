@@ -175,10 +175,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m7moudgadallah&label=Profile%20views&color=0e75b6&style=flat" alt="m7moudgadallah" /> <img src="https://user-badge.committers.top/egypt/m7moudGadallah.svg"/></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m7moudgadallah" alt="m7moudgadallah" /></a> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m7moudgadallah&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true&custom_title=GitHub+Profile+Stats" alt="GitHub Stats" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m7moudgadallah&show_icons=true&locale=en&layout=compact" alt="m7moudgadallah" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=m7moudgadallah&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m7moudgadallah&show_icons=true&locale=en" alt="m7moudgadallah" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7moudgadallah&layout=donut&langs_count=10&theme=radical&custom_title=Top+Languages+Used" alt="Top Languages" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m7moudgadallah&" alt="m7moudgadallah" /></p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m7moudgadallah&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=m7moudgadallah&theme=tokyonight&utcOffset=+2" />
+</p>
