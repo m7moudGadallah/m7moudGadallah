@@ -96,6 +96,8 @@
     &emsp;
     <img src="./pic/icons/tools/Angular.png" width=5% title="Angular">
 &emsp;
+    <img src="./pic/icons/tools/React.svg" width=5% title="React">
+&emsp;
     <img src="./pic/icons/tools/NET core.png" width=5% title="Dotnet Core">
     &emsp;
     <img src="./pic/icons/tools/NodeJS-Dark.svg" width=5% title="Nodejs">
