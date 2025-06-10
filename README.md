@@ -12,7 +12,9 @@
 
 ## <picture><img src = "https://github.com/m7moudGadallah/m7moudGadallah/blob/main/pic/about_me.gif?raw=true" width = 50px></picture> About me
 
+[![committers.top badge](https://user-badge.committers.top/egypt/m7moudGadallah.svg)](https://user-badge.committers.top/egypt/m7moudGadallah)
 <br>
+
 <div>
 
 - **Software Engineer** @[Appout ITS](https://www.linkedin.com/company/appout/).
@@ -167,7 +169,7 @@
     &emsp;
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m7moudgadallah&label=Profile%20views&color=0e75b6&style=flat" alt="m7moudgadallah" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=m7moudgadallah&label=Profile%20views&color=0e75b6&style=flat" alt="m7moudgadallah" /> <img src="https://user-badge.committers.top/egypt/m7moudGadallah.svg"/></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m7moudgadallah" alt="m7moudgadallah" /></a> </p>
 
