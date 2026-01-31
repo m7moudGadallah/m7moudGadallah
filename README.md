@@ -12,9 +12,6 @@
 
 ## <picture><img src = "https://github.com/m7moudGadallah/m7moudGadallah/blob/main/pic/about_me.gif?raw=true" width = 50px></picture> About me
 
-[![committers.top badge](https://user-badge.committers.top/egypt/m7moudGadallah.svg)](https://user-badge.committers.top/egypt/m7moudGadallah)
-<br>
-
 <div>
 
 - **Software Engineer** @[Appout ITS](https://www.linkedin.com/company/appout/).
@@ -195,6 +192,5 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=m7moudgadallah&label=Profile%20views&color=0e75b6&style=flat" alt="m7moudgadallah" />
-  &nbsp; • &nbsp;
-  <img src="https://user-badge.committers.top/egypt/m7moudGadallah.svg"/>
+  &nbsp;
 </p>
