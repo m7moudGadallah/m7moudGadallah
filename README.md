@@ -170,17 +170,17 @@
     &emsp;
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=m7moudgadallah&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true&custom_title=GitHub+Profile+Stats" alt="GitHub Stats" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=m7moudgadallah&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m7moudgadallah&layout=donut&langs_count=10&theme=radical&custom_title=Top+Languages+Used" alt="Top Languages" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m7moudgadallah&theme=tokyonight" />
