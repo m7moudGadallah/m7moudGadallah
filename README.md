@@ -14,15 +14,18 @@
 
 <div>
 
-- **Software Engineer** @[Appout ITS](https://www.linkedin.com/company/appout/).
-- 🏫 **Graduate of Mansoura University's Faculty of Engineering** with a specialization in **Computer and Control Systems**.
-- <picture><img src="pic/icpc.png" width="25px"></picture> Participated in the **Egyptian Collegiate Programming Contest (ECPC) 2022** => [**View Certificate**](pic/2023-ECPCQDAYEIGHT2022-Mahmoud%20Gadallah-PLACE.png).
-- <picture><img src="pic/xtreme-logo.gif" width="25px"></picture> Ranked **18th in Egypt and 640th globally** in the **IEEE Xtreme 16.0** coding competition => [**View Rank**](pic/IEEE_Rank.jpg).
-- 💻 Passionate about **competitive programming** on platforms such as `Codeforces`, `Leetcode`, and `Codechef`, where I constantly challenge myself to enhance my problem-solving skills.
-- 🌱 **Lifelong learner**, currently diving deep into **Computer Science** and **Web Development** to stay updated with the latest technologies and trends.
-- 📈 Strong entrepreneurial mindset, eager to explore innovative solutions and projects.
-- 📫 Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/m7moudgadallah/)**.
-- **[Download My CV](https://drive.google.com/file/d/1ww5LUIwFNROuoKdKv1DSnfzLBlIPZ-kb/view?usp=sharing)** for a comprehensive view of my background.
+- 🚀 **Software Engineer** specializing in #BackendDevelopment, distributed systems, and #PerformanceOptimization using **Node.js**, **NestJS**, and **.NET**.
+- 🏢 Currently working at **Appout ITS** on scalable CX systems, performance optimization, distributed architectures, and #AI / #LLM-powered features.
+- 🩺 Also contributing as a **Backend Engineer** in healthcare systems development, building scalable solutions for clinics, laboratories, and healthcare operations using **NestJS**, **MongoDB**, **Redis**, and **GCP**.
+- 🏫 Graduate of **Faculty of Engineering — Mansoura University**, specialized in **Computer & Control Systems Engineering**.
+- ⚡ Passionate about building scalable and high-performance systems with technologies like **MongoDB**, **PostgreSQL**, **Redis**, **ElasticSearch**, and cloud-based architectures.
+- 🧠 Ranked **18th in Egypt** and **640th globally** in **IEEE Xtreme 16.0** competitive programming competition.
+- 💻 Strong problem-solving background with experience in **Codeforces**, **LeetCode**, and **ECPC**.
+- 🤖 Interested in #AI, #LLMs, backend architecture, distributed systems, and developer productivity.
+- 🌱 Lifelong learner continuously exploring **Computer Science**, system design, scalability, and modern software engineering practices.
+- 🤝 Enjoy mentoring, knowledge sharing, and collaborating on impactful engineering projects.
+- 📄 [Download My CV](https://drive.google.com/file/d/1ww5LUIwFNROuoKdKv1DSnfzLBlIPZ-kb/view?usp=sharing)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/m7moudgadallah/)
 </div>
 
 <!--contact with me-->
